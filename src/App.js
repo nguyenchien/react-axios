@@ -1,8 +1,8 @@
-import FirstRequest from './examples/1-first-request';
+import SetUp from './examples/2-headers';
 function App() {
   return (
     <main>
-      <FirstRequest />
+      <SetUp />
     </main>
   );
 }

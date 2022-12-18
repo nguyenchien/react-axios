@@ -1,4 +1,4 @@
-import SetUp from './examples/2-headers';
+import SetUp from './examples/3-post-request';
 function App() {
   return (
     <main>

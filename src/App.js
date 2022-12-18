@@ -1,5 +1,4 @@
-import SetUp from './examples/4-global-instance';
-import './axios/global';
+import SetUp from './examples/5-custom-instance';
 
 function App() {
   return (
